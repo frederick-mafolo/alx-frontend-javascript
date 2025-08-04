@@ -57,7 +57,7 @@ interface StudentConstructor {
   }
   
   // Class implementation
-  class StudentClass implements StudentClassInterface {
+  class StudentClass  implements StudentClassInterface {
     private firstName: string;
     private lastName: string;
   
